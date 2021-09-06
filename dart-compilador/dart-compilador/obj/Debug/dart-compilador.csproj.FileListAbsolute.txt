@@ -1,0 +1,12 @@
+C:\Users\enriq\Documents\UNIVERSIDAD ITH\6TO SEMESTRE TRABAJOS\LENGUAJES Y AUTOMATAS I\UNIDAD V\Compilador - Dart\dart-compilador\dart-compilador\bin\Debug\dart-compilador.exe.config
+C:\Users\enriq\Documents\UNIVERSIDAD ITH\6TO SEMESTRE TRABAJOS\LENGUAJES Y AUTOMATAS I\UNIDAD V\Compilador - Dart\dart-compilador\dart-compilador\bin\Debug\dart-compilador.exe
+C:\Users\enriq\Documents\UNIVERSIDAD ITH\6TO SEMESTRE TRABAJOS\LENGUAJES Y AUTOMATAS I\UNIDAD V\Compilador - Dart\dart-compilador\dart-compilador\bin\Debug\dart-compilador.pdb
+C:\Users\enriq\Documents\UNIVERSIDAD ITH\6TO SEMESTRE TRABAJOS\LENGUAJES Y AUTOMATAS I\UNIDAD V\Compilador - Dart\dart-compilador\dart-compilador\obj\Debug\dart-compilador.csprojAssemblyReference.cache
+C:\Users\enriq\Documents\UNIVERSIDAD ITH\6TO SEMESTRE TRABAJOS\LENGUAJES Y AUTOMATAS I\UNIDAD V\Compilador - Dart\dart-compilador\dart-compilador\obj\Debug\dart_compilador.Properties.Resources.resources
+C:\Users\enriq\Documents\UNIVERSIDAD ITH\6TO SEMESTRE TRABAJOS\LENGUAJES Y AUTOMATAS I\UNIDAD V\Compilador - Dart\dart-compilador\dart-compilador\obj\Debug\dart-compilador.csproj.GenerateResource.cache
+C:\Users\enriq\Documents\UNIVERSIDAD ITH\6TO SEMESTRE TRABAJOS\LENGUAJES Y AUTOMATAS I\UNIDAD V\Compilador - Dart\dart-compilador\dart-compilador\obj\Debug\dart-compilador.csproj.CoreCompileInputs.cache
+C:\Users\enriq\Documents\UNIVERSIDAD ITH\6TO SEMESTRE TRABAJOS\LENGUAJES Y AUTOMATAS I\UNIDAD V\Compilador - Dart\dart-compilador\dart-compilador\obj\Debug\dart-compilador.exe
+C:\Users\enriq\Documents\UNIVERSIDAD ITH\6TO SEMESTRE TRABAJOS\LENGUAJES Y AUTOMATAS I\UNIDAD V\Compilador - Dart\dart-compilador\dart-compilador\obj\Debug\dart-compilador.pdb
+C:\Users\enriq\Documents\UNIVERSIDAD ITH\6TO SEMESTRE TRABAJOS\LENGUAJES Y AUTOMATAS I\UNIDAD V\Compilador - Dart\dart-compilador\dart-compilador\obj\Debug\dart_compilador.AutomataFinito.resources
+C:\Users\enriq\Documents\UNIVERSIDAD ITH\6TO SEMESTRE TRABAJOS\LENGUAJES Y AUTOMATAS I\UNIDAD V\Compilador - Dart\dart-compilador\dart-compilador\obj\Debug\dart_compilador.TablaTokens.resources
+C:\Users\enriq\Documents\UNIVERSIDAD ITH\6TO SEMESTRE TRABAJOS\LENGUAJES Y AUTOMATAS I\UNIDAD V\Compilador - Dart\dart-compilador\dart-compilador\obj\Debug\dart_compilador.dart_Form.resources
